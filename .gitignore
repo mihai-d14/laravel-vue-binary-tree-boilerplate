@@ -33,3 +33,13 @@ Thumbs.db
 
 # Docker volumes
 postgres-data/
+
+# Extra
+.git.bak
+.env
+.env.*
+!.env.example
+.DS_Store
+node_modules/
+vendor/
+*.log
