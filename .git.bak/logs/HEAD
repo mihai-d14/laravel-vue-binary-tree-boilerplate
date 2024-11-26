@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 6cb39d2c36011babd309beeb10313bf01fc7134c mihai-d14 <94290798+mihai-d14@users.noreply.github.com> 1730034472 +0100	commit (initial): Initial commit: Laravel-Vue boilerplate with Docker setup
-6cb39d2c36011babd309beeb10313bf01fc7134c 0000000000000000000000000000000000000000 mihai-d14 <94290798+mihai-d14@users.noreply.github.com> 1730034685 +0100	Branch: renamed refs/heads/master to refs/heads/main
-0000000000000000000000000000000000000000 6cb39d2c36011babd309beeb10313bf01fc7134c mihai-d14 <94290798+mihai-d14@users.noreply.github.com> 1730034685 +0100	Branch: renamed refs/heads/master to refs/heads/main
-6cb39d2c36011babd309beeb10313bf01fc7134c 09696327174bad1a07f5303fa0734260b6bd5b2e mihai-d14 <94290798+mihai-d14@users.noreply.github.com> 1730034707 +0100	commit: Fix: Remove submodule reference
